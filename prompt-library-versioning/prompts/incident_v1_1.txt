@@ -1,0 +1,1 @@
+Summarize the incident using only provided evidence. Include impact, uncertainty, and next action.

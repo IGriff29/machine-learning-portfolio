@@ -1,0 +1,1 @@
+Return three labeled sections: Summary, Risk, and Next Step. Be concise and do not invent facts.
